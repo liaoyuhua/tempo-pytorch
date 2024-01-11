@@ -6,9 +6,7 @@ This is reproduction code for the paper "TEMPO: Prompt-based Generative Pre-trai
 
 </div>
 
-<div align=center> <image src="./assets/struct.png" width="400px"> </div>
-
------------------
+<div align=center> <image src="./assets/struct.png" width="600px"> </div>
 
 **Performance**
 
